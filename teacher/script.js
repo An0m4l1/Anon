@@ -161,7 +161,7 @@ function BufferLoader(context, urlList, callback) {
     bufferLoader = new BufferLoader(
       context,
       [
-        '/party.mp3'
+        '/https://github.com/An0m4l1/Anon/raw/refs/heads/main/teacher/party.mp3'
       ],
       finishedLoading
       );
